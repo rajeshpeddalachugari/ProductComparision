@@ -1,2 +1,2 @@
-# ProductComparision
+# ProductComparision using jQuery
  
